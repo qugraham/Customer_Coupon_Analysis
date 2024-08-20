@@ -25,16 +25,8 @@ This data comes to us from the UCI Machine Learning repository and was collected
 #### Key findings:
 1. Coffee houses were the most frequently recommended, but also represent a pretty even split across acceptance and non-acceptance. Low-cost restaurants and carry out & take away, were the coupons with the highest acceptance rates vs non-acceptance of offer.
 2. Customers having less than 1 visits per month to coffee houses led to the lowest acceptance rate, by far, at ~19% acceptance (well below the 57% average). This is in line with the bar coupon acceptance as well - customers that frequent the places that match the coupon they received are most likely to accept the respective coupon.
-   
-## Getting Started:
-
-1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-
-    *If using offline data mention that and how they may obtain the data from the froup)*
-    
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
 
 ## Featured Notebooks/Analysis/Deliverables
-* Main Notebook - [coupon_acceptance_qrg.ipynb]
+1. Underlying .csv file - [coupons.csv]
+2. Main notebook - includes data transformation and analysis in .ipynb - [coupon_acceptance_qrg.ipynb]
 
