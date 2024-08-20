@@ -36,5 +36,5 @@ This data comes to us from the UCI Machine Learning repository and was collected
 3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
 
 ## Featured Notebooks/Analysis/Deliverables
-* [Notebook](link)
+* Main Notebook - [coupon_acceptance_qrg.ipynb]
 
