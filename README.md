@@ -27,6 +27,6 @@ This data comes to us from the UCI Machine Learning repository and was collected
 2. Customers having less than 1 visits per month to coffee houses led to the lowest acceptance rate, by far, at ~19% acceptance (well below the 57% average). This is in line with the bar coupon acceptance as well - customers that frequent the places that match the coupon they received are most likely to accept the respective coupon.
 
 ## Featured Notebooks/Analysis/Deliverables
-1. Underlying .csv file - [coupons.csv]
-2. Main notebook - includes data transformation and analysis in .ipynb - [coupon_acceptance_qrg.ipynb]
+1. Underlying data in .csv file - [coupons.csv]
+2. Main notebook includes data transformation and analysis in .ipynb - [coupon_acceptance_qrg.ipynb]
 
